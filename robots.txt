@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iciable.github.io/sitemap.html.gz
+Sitemap: https://iciable.github.io/app/sitemap.html.gz
+Sitemap: https://iciable.github.io/assets/sitemap.html.gz
+Sitemap: https://iciable.github.io/css/sitemap.html.gz
+Sitemap: https://iciable.github.io/includes/sitemap.html.gz
+Sitemap: https://iciable.github.io/item/sitemap.html.gz
+Sitemap: https://iciable.github.io/src/sitemap.html.gz
